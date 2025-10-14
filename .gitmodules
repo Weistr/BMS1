@@ -1,0 +1,3 @@
+[submodule "firmware/Emcu_firmware"]
+	path = firmware/Emcu_firmware
+	url = https://github.com/Weistr/Emcu_firmware.git
